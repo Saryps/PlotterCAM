@@ -22,16 +22,16 @@ Most free tools generate pure G1 line floods. Paid tools lock G2/G3 arc output b
 ## Screenshots
 
 ### Multi-color workflow — automatic color detection and pen assignment
-![Angry face quantized](screenshots/angry_face_quantized.png)
+![Angry face quantized](angry_face_quantized.png)
 
 ### G-code output — real G2/G3 arc commands, not just G1 line floods
-![Angry face in UGS](screenshots/angry_face_ugs.png)
+![Angry face in UGS](angry_face_ugs.png)
 
 ### Color map workflow — drag detected colors to your physical pen library
-![Rocket color map](screenshots/rocket_colormap.png)
+![Rocket color map](rocket_colormap.png)
 
 ### Complex multi-color toolpath visualization
-![Rocket in UGS](screenshots/rocket_ugs.png)
+![Rocket in UGS](rocket_ugs.png)
 
 ---
 
