@@ -15,7 +15,7 @@ Ever tried to find a good pen plotter CAM app that:
 - Actually gives you an **accurate time estimate**?
 - Doesn't require installing half the internet to run?
 
-Most free tools generate pure G1 line floods. Paid tools lock G2/G3 arc output behind paywalls. GRBLPlotter can do it but has a learning curve so steep it has no YouTube tutorials. PlotterCAM does all of it in a single HTML file.
+Most free tools generate pure G1 line floods. Paid tools lock G2/G3 arc output behind paywalls. The few tools that do everything are so complex they're almost impossible to get started with. PlotterCAM does all of it in a single HTML file.
 
 ---
 
